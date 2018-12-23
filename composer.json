@@ -1,6 +1,6 @@
 {
     "name": "devl-hop/html2pdf",
-    "version": "v4.03",
+    "version": "4.03",
     "type": "library",
     "license": "LGPL",
     "description": "HTML2PDF est un convertisseur de code HTML vers PDF",
