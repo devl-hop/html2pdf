@@ -33,5 +33,10 @@
         {
             "HTML2PDF": "."
         }
-    }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "4.03"
+        }
+    },
 }
